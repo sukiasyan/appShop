@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/appShop/static/css/main.74c74741.css",
+    "main.js": "/appShop/static/js/main.df7deb3c.js",
+    "static/media/support.jpg": "/appShop/static/media/support.13dffa5bdb3a671bcb5b.jpg",
+    "static/media/cyber-bg.png": "/appShop/static/media/cyber-bg.44527257ee32d74ae878.png",
+    "index.html": "/appShop/index.html",
+    "main.74c74741.css.map": "/appShop/static/css/main.74c74741.css.map",
+    "main.df7deb3c.js.map": "/appShop/static/js/main.df7deb3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74c74741.css",
+    "static/js/main.df7deb3c.js"
+  ]
+}
